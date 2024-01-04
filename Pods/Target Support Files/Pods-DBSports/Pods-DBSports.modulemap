@@ -1,0 +1,6 @@
+framework module Pods_DBSports {
+  umbrella header "Pods-DBSports-umbrella.h"
+
+  export *
+  module * { export * }
+}
